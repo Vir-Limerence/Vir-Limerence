@@ -11,10 +11,10 @@
 
 
 <h3>🛠 技术栈</h3>
-- 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown 
+- 💻 &nbsp; Python | Java <br>
+- 🌐 &nbsp; HTML | CSS | JavaScript <br>
+- 🛢 &nbsp; MySQL | MongoDB<br>
+- 🔧 &nbsp; Git | Markdown <br>
 <!--
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
