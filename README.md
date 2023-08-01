@@ -24,7 +24,7 @@
 
 - 🔧 &nbsp; Git | Markdown
 
-<hr>
+
 <!--
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
@@ -33,6 +33,7 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 -->
 
+<hr>
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vir-Limerence&show_icons=true)](https://github.com/shivam0110)
 
