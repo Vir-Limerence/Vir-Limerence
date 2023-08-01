@@ -3,27 +3,17 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻 关于我 </h3>
-
-- 🤔 &nbsp; 目前正在准备我的研究生课题，探索工业控制背景下的攻击图生成技术。
-
 - 🎓 &nbsp; 在哈尔滨工业大学（威海）学习网络空间安全，是一名在读硕士研究生。
 - 🌱 &nbsp; 了解智能规划，渗透测试，以及攻击图生成技术。
-
+- 🤔 &nbsp; 正在准备研究生课题，探索工业控制背景下的攻击图生成技术。
 - ✍️ &nbsp; 目前正在学习JAVA Web的内容，希望能够成为一名成熟的开发者。
 
 
 
 <h3>🛠 技术栈</h3>
-
-
-
 - 💻 &nbsp; Python | Java 
-
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-
-
 - 🛢 &nbsp; MySQL | MongoDB
-
 - 🔧 &nbsp; Git | Markdown 
 <!--
 
