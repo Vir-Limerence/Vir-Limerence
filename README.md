@@ -3,6 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻 关于我 </h3>
+
 - 🎓 &nbsp; 在哈尔滨工业大学（威海）学习网络空间安全，是一名在读硕士研究生。
 
 - 🌱 &nbsp; 了解智能规划，渗透测试，以及攻击图生成技术。
@@ -14,6 +15,7 @@
 
 
 <h3>🛠 技术栈</h3>
+
 - 💻 &nbsp; Python | Java
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
