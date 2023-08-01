@@ -30,9 +30,9 @@
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
-<hr>
--->
 
+-->
+<hr>
 
 <br/><br/>
 
