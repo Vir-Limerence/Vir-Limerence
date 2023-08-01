@@ -3,9 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 关于我 </h3>
-
-
+<h3> 👨🏻关于我 </h3>
 
 - 🤔 &nbsp; 目前正在准备我的研究生课题，探索工业控制背景下的攻击图生成技术。
 
